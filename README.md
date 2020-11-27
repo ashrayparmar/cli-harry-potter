@@ -1,4 +1,4 @@
-## CLI QUIZ APP ~HARRY POTTER~
+## CLI QUIZ APP # HARRY POTTER #
 
 ## Learnings
 
